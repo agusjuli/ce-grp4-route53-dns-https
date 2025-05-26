@@ -37,4 +37,5 @@ Change content in terraform.tfvars accordingly.
 
 ---
 
+![Screenshot 2025-05-26 230721](https://github.com/user-attachments/assets/5de1f742-cc24-4836-9b7c-91e7e69d0bdd)
 
